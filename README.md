@@ -30,6 +30,9 @@ List of SaaS boilerplates (starter kits) by stack
 - Larakits https://larakits.com/
 - SaaS Starter Kit https://saasstarterkit.app
 - Wave https://devdojo.com/wave
+- Nana https://saasstarterkit.app/
+- Tenancy https://tenancyforlaravel.com/saas-boilerplate/
+- 
 
 
 ## Django (Python)
