@@ -21,6 +21,11 @@ List of SaaS boilerplates (starter kits) by stack
 - Boostack.io. open-source https://boostack.io/
 - Serverless SaaS https://serverless.page
 - Rocket App https://rocketapp.me/
+- SaaS Starter. Open Source. https://github.com/cedrickchee/saas-starter
+- SaaStr. Open Source. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
+- ULTIMATE BACKEND. Open Source. https://github.com/juicycleff/ultimate-backend
+- async-labs. Open Source. https://github.com/async-labs/saas
+- SaaSgear. Open Source. https://github.com/JSLancerTeam/saasgear
 
 
 ## Laravel (PHP)
@@ -32,7 +37,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Wave https://devdojo.com/wave
 - Nana https://saasstarterkit.app/
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
-- 
+- saas-boilerplate. Open Source. https://github.com/miracuthbert/saas-boilerplate
 
 
 ## Django (Python)
@@ -46,6 +51,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 - Easy Serverless SaaS boilerplate https://easysaasboilerplate.com/
 - SaaS Forge. Open Source. https://www.saasforge.dev/
+- Flask App Builder. Open Source. https://github.com/dpgaspar/Flask-AppBuilder
 
 
 ## Rare
