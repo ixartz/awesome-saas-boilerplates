@@ -24,7 +24,6 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Starter. Open Source. https://github.com/cedrickchee/saas-starter
 - SaaStr. Open Source. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
 - ULTIMATE BACKEND. Open Source. https://github.com/juicycleff/ultimate-backend
-- async-labs. Open Source. https://github.com/async-labs/saas
 - SaaSgear. Open Source. https://github.com/JSLancerTeam/saasgear
 
 
@@ -43,7 +42,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Django (Python)
 
 - SaaS Pegasus https://www.saaspegasus.com/
-- Djaodjin. Django based. Open Source. https://djaodjin.com/
+- Djaodjin. Open Source. https://djaodjin.com/
 - Carrot Seed https://www.cnc.io/en/seed
 
 
