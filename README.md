@@ -19,7 +19,6 @@ List of SaaS boilerplates (starter kits) by stack
 - MERNKIT https://mernkit.com/
 - Nodewood https://nodewood.com/
 - Boostack.io. open-source https://boostack.io/
-- Serverless SaaS https://serverless.page
 - Rocket App https://rocketapp.me/
 - Turbojet https://www.turbojet.co/
 - SaaS Starter. Open Source. https://github.com/cedrickchee/saas-starter
@@ -56,6 +55,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Rare
 
+- Serverless SaaS. React. https://serverless.page
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 - Innomatic. PHP. http://www.innomatic.io/
 - ASP.NET Zero. .NET. https://aspnetzero.com/
