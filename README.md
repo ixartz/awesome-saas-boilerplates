@@ -1,5 +1,6 @@
 List of SaaS boilerplates (starter kits) by stack
 
+*Do I miss somethings? Do you have a boilerplate to share? Drop me a message at msc.smirnov.am@gmail.com or create a PR*
 
 ## Ruby on Rails
 
