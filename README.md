@@ -50,7 +50,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Flask (Python)
 
-- Easy Serverless SaaS boilerplate https://easysaasboilerplate.com/
+- Easy Serverless SaaS boilerplate. Open Source. https://easysaasboilerplate.com/
 - SaaS Forge. Open Source. https://www.saasforge.dev/
 - Flask App Builder. Open Source. https://github.com/dpgaspar/Flask-AppBuilder
 
