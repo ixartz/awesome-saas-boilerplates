@@ -1,13 +1,11 @@
 List of SaaS boilerplates (starter kits) by stack
 
-*Do I miss somethings? Do you have a boilerplate to share? Drop me a message at msc.smirnov.am@gmail.com or create a PR*
+*Did I miss something? Do you have a boilerplate to share? Drop me a message at msc.smirnov.am@gmail.com or create a PR*
 
 ## Ruby on Rails
 
 - Bullet Train https://bullettrain.co
-- Duplex https://www.hash32.com/products/duplex
 - Jumpstart Rails https://jumpstartrails.com/
-- Maxiom App Starter Kit https://www.maxiomapps.com/apps/application-starter-kit/
 - Kiso https://kiso.io/
 - Rails Kits https://railskits.com/
 - Sjabloon https://www.getsjabloon.com/
