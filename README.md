@@ -52,6 +52,7 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Forge. Open Source. https://www.saasforge.dev/
 - Ignite (SaaS Boilerplate). Open Source. https://github.com/sumukh/ignite
 - Flask App Builder. Open Source. https://github.com/dpgaspar/Flask-AppBuilder
+- Build a SAAS App with Flask. Course / Boilerplate. https://buildasaasappwithflask.com/
 
 
 ## Rare
