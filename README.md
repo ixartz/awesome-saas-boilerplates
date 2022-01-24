@@ -64,3 +64,4 @@ List of SaaS boilerplates (starter kits) by stack
 - Innomatic. PHP. http://www.innomatic.io/
 - ASP.NET Zero. .NET. https://aspnetzero.com/
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
+- GeniePy (Python & Starlette) https://geniepy.com
