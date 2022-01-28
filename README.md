@@ -27,7 +27,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Nextless JS https://nextlessjs.com
 - Divjoy https://divjoy.com
 - Remixtape https://remixtape.dev
-- Nextacular https://nextacular.co
+- Nextacular. Open Source. https://nextacular.co
 
 
 ## Laravel (PHP)
