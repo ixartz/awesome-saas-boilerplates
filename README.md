@@ -40,6 +40,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Nana https://saasstarterkit.app/
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
 - saas-boilerplate. Open Source. https://github.com/miracuthbert/saas-boilerplate
+- Velocity https://pastaduck.gumroad.com/l/chbnv
 
 
 ## Django (Python)
