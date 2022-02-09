@@ -7,7 +7,6 @@ List of SaaS boilerplates (starter kits) by stack
 - Bullet Train https://bullettrain.co
 - Jumpstart Rails https://jumpstartrails.com/
 - Kiso https://kiso.io/
-- Rails Kits https://railskits.com/
 - Sjabloon https://www.getsjabloon.com/
 
 
@@ -63,7 +62,6 @@ List of SaaS boilerplates (starter kits) by stack
 
 - Serverless SaaS. React. https://serverless.page
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
-- Innomatic. PHP. http://www.innomatic.io/
 - ASP.NET Zero. .NET. https://aspnetzero.com/
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - GeniePy (Python & Starlette) https://geniepy.com
