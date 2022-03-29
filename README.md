@@ -47,6 +47,7 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Pegasus https://www.saaspegasus.com/
 - Djaodjin. Open Source. https://djaodjin.com/
 - Carrot Seed https://www.cnc.io/en/seed
+- The SaaS boilerplate by Apptension (+React) https://www.apptension.com/saas-boilerplate
 
 
 ## Flask (Python)
