@@ -41,6 +41,9 @@ List of SaaS boilerplates (starter kits) by stack
 - saas-boilerplate. Open Source. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 
+## Symfony (PHP)
+
+- Parthenon - https://getparthenon.com
 
 ## Django (Python)
 
