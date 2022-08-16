@@ -45,6 +45,11 @@ List of SaaS boilerplates (starter kits) by stack
 
 - Parthenon - https://getparthenon.com
 
+## WordPress (PHP)
+
+- Underscores, a starter theme - https://underscores.me/
+- WPPB, plugin boilerplate generator - https://wppb.me/
+
 ## Django (Python)
 
 - SaaS Pegasus https://www.saaspegasus.com/
