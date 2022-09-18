@@ -27,6 +27,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Divjoy https://divjoy.com
 - Remixtape https://remixtape.dev
 - Nextacular. Open Source. https://nextacular.co
+- AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template
 
 
 ## Laravel (PHP)
