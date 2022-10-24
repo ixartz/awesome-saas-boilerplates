@@ -30,6 +30,7 @@ List of SaaS boilerplates (starter kits) by stack
 - AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template
 - Volca https://volca.io
 - Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit
+- Supastarter - https://supastarter.dev/
 
 
 ## Laravel (PHP)
