@@ -31,6 +31,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Volca https://volca.io
 - Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit
 - Supastarter - https://supastarter.dev/
+- SAAS-Starter-Kit-Pro - https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro
 
 
 ## Laravel (PHP)
