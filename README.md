@@ -47,14 +47,17 @@ List of SaaS boilerplates (starter kits) by stack
 - saas-boilerplate. Open Source. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 
+
 ## Symfony (PHP)
 
 - Parthenon - https://getparthenon.com
+
 
 ## WordPress (PHP)
 
 - Underscores, a starter theme - https://underscores.me/
 - WPPB, plugin boilerplate generator - https://wppb.me/
+
 
 ## Django (Python)
 
@@ -62,6 +65,8 @@ List of SaaS boilerplates (starter kits) by stack
 - Djaodjin. Open Source. https://djaodjin.com/
 - Carrot Seed https://www.cnc.io/en/seed
 - The SaaS boilerplate by Apptension (+React) https://www.apptension.com/saas-boilerplate
+- Vanty Starter Kit https://www.advantch.com/
+- Saas Hammer https://saashammer.com/
 
 
 ## Flask (Python)
