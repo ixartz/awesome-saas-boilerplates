@@ -32,6 +32,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit
 - Supastarter - https://supastarter.dev/
 - SAAS-Starter-Kit-Pro - https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro
+- Saas UI Pro - https://saas-ui.dev
 
 
 ## Laravel (PHP)
