@@ -47,6 +47,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
 - saas-boilerplate. Open Source. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
+- nodewood https://nodewood.com/
 
 
 ## Symfony (PHP)
