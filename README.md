@@ -35,6 +35,7 @@ List of SaaS boilerplates (starter kits) by stack
 - SAAS-Starter-Kit-Pro - https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro
 - Saas UI Pro - https://saas-ui.dev
 - Modern MERN - https://modernmern.com
+- Usenextbase -  https://usenextbase.com
 
 
 ## Laravel (PHP)
