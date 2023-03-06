@@ -1,8 +1,8 @@
 List of SaaS boilerplates (starter kits) by stack
 
-*Did I miss something? Do you have a boilerplate to share? Drop me a message at msc.smirnov.am@gmail.com or create a PR*
+*Did I miss something? Do you have a boilerplate to share? Drop me a message at zsmconsultnl@gmail.com or create a PR*
 
-> Do you need help with deploying your SaaS on AWS, creating email collector to capture leads, integrate payment providers, custom development? Contact me at https://smirnov-am.github.io/ 
+> Do you need help with deploying your SaaS on AWS, creating a POC or MVP, integrate payment providers, custom development? Contact me at https://smirnov-am.github.io/ 
 
 ## Ruby on Rails
 
