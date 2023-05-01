@@ -65,6 +65,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Django (Python)
 
+- SaaSitive https://saasitive.com
 - SaaS Pegasus https://www.saaspegasus.com/
 - Djaodjin. Open Source. https://djaodjin.com/
 - Carrot Seed https://www.cnc.io/en/seed
