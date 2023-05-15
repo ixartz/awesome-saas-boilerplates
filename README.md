@@ -83,11 +83,13 @@ List of SaaS boilerplates (starter kits) by stack
 - Enferno Frameowrk: Open Source . https://enferno.io/
 
 ## .NET (ASP.NET Core / .NET 6+)
+
 - ASP.NET Zero. .NET. https://aspnetzero.com/
 - fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
 
 ## Rare
 
+- PySaaS. Python + Pynecone https://pysaas.io/
 - Serverless SaaS. React. https://serverless.page
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
