@@ -14,7 +14,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
-- Usergravity https://usegravity.app/
+- Gravity https://usegravity.app/
 - MERNKIT https://mernkit.com/
 - Nodewood https://nodewood.com/
 - Boostack.io. open-source https://boostack.io/
