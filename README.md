@@ -14,7 +14,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
-- Widin https://widin.io/
+- Widin [https://widin.io/](https://widin.io/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - Gravity https://usegravity.app/
 - MERNKIT https://mernkit.com/
 - Nodewood https://nodewood.com/
