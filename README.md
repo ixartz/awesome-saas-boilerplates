@@ -14,6 +14,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
+- LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
 - Widin [https://widin.io/](https://widin.io/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - Gravity https://usegravity.app/
