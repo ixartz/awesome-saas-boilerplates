@@ -40,6 +40,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Modern MERN - https://modernmern.com
 - Usenextbase -  https://usenextbase.com
 - Makerkit - https://makerkit.dev
+- salable - https://github.com/Salable/nextjs-with-salable
 
 ## Laravel (PHP)
 
