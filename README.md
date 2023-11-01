@@ -94,9 +94,6 @@ List of SaaS boilerplates (starter kits) by stack
 - ASP.NET Zero. .NET. https://aspnetzero.com/
 - fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
 
-## Golang
-- SaaS Startup Kit. https://gitlab.com/geeks-accelerator/oss/saas-starter-kit/
-
 ## Rare
 - SupaNuxt SaaS. Nuxt3. Open Source. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
