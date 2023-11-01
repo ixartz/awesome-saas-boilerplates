@@ -41,6 +41,9 @@ List of SaaS boilerplates (starter kits) by stack
 - Usenextbase -  https://usenextbase.com
 - Makerkit - https://makerkit.dev
 - salable - https://github.com/Salable/nextjs-with-salable
+- SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
+- Graphile Starter - https://github.com/graphile/starter
+- ALPack by Apptension - https://github.com/apptension/ALPack
 
 ## Laravel (PHP)
 
@@ -91,6 +94,9 @@ List of SaaS boilerplates (starter kits) by stack
 - ASP.NET Zero. .NET. https://aspnetzero.com/
 - fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
 
+## Golang
+- SaaS Startup Kit. https://gitlab.com/geeks-accelerator/oss/saas-starter-kit/
+
 ## Rare
 - SupaNuxt SaaS. Nuxt3. Open Source. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
@@ -98,3 +104,4 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - GeniePy (Python & Starlette) https://geniepy.com
+- Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
