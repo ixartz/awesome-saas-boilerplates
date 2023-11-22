@@ -41,6 +41,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Usenextbase -  https://usenextbase.com
 - Makerkit - https://makerkit.dev
 - salable - https://github.com/Salable/nextjs-with-salable
+- NextJS 14 SaaS Starter with Lucia and Stripe  https://github.com/juliankoehn/nextjs-saas-starter
 
 ## Laravel (PHP)
 
