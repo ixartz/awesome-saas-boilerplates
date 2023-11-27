@@ -46,6 +46,7 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
 - Graphile Starter - https://github.com/graphile/starter
 - ALPack by Apptension - https://github.com/apptension/ALPack
+- Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger
 
 ## Laravel (PHP)
 
