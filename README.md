@@ -42,6 +42,10 @@ List of SaaS boilerplates (starter kits) by stack
 - Makerkit - https://makerkit.dev
 - salable - https://github.com/Salable/nextjs-with-salable
 - ShipFast - https://shipfa.st/
+- SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
+- Graphile Starter - https://github.com/graphile/starter
+- ALPack by Apptension - https://github.com/apptension/ALPack
+
 
 ## Laravel (PHP)
 
@@ -99,3 +103,4 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - GeniePy (Python & Starlette) https://geniepy.com
+- Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
