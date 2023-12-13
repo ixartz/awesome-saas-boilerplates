@@ -82,6 +82,7 @@ List of SaaS boilerplates (starter kits) by stack
 - The SaaS boilerplate by Apptension (+React) https://www.apptension.com/saas-boilerplate
 - Vanty Starter Kit https://www.advantch.com/
 - Saas Hammer https://saashammer.com/
+- YaSaas https://github.com/roperi/yasaas/
 
 
 ## Flask (Python)
