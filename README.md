@@ -83,6 +83,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Vanty Starter Kit https://www.advantch.com/
 - Saas Hammer https://saashammer.com/
 - YaSaas https://github.com/roperi/yasaas/
+- TheDevStarter https://thedevstarter.com/
 
 
 ## Flask (Python)
