@@ -7,6 +7,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Bullet Train https://bullettrain.co
 - Jumpstart Rails https://jumpstartrails.com/
 - Sjabloon https://www.getsjabloon.com/
+- Rails Tabler Starter https://github.com/tarunvelli/rails-tabler-starter
 
 
 ## Node.js (Javascript)
