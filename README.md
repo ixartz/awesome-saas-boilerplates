@@ -14,7 +14,7 @@ List of SaaS boilerplates (starter kits) by stack
 - OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
 - LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
-- Widin [https://widin.io/](https://widin.io/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
+- Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - Gravity https://usegravity.app/
 - MERNKIT https://mernkit.com/
 - Nodewood https://nodewood.com/
