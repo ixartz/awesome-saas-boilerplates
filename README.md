@@ -6,7 +6,6 @@ List of SaaS boilerplates (starter kits) by stack
 
 - Bullet Train https://bullettrain.co
 - Jumpstart Rails https://jumpstartrails.com/
-- Kiso https://kiso.io/
 - Sjabloon https://www.getsjabloon.com/
 
 
