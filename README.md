@@ -2,8 +2,6 @@ List of SaaS boilerplates (starter kits) by stack
 
 *Did I miss something? Do you have a boilerplate to share? Drop me a message at zsmconsultnl@gmail.com or create a PR*
 
-> Are you planning to utilize some commidized features that are not essential to the core functionality of your SaaS instead of building them yourself - see this awesome list https://github.com/smirnov-am/awesome-devtools
-
 ## Ruby on Rails
 
 - Bullet Train https://bullettrain.co
@@ -48,6 +46,7 @@ List of SaaS boilerplates (starter kits) by stack
 - ALPack by Apptension - https://github.com/apptension/ALPack
 - Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger
 - Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
+- marblism - https://www.marblism.com/
 
 ## Laravel (PHP)
 
