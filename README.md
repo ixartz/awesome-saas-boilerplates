@@ -45,6 +45,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Graphile Starter - https://github.com/graphile/starter
 - ALPack by Apptension - https://github.com/apptension/ALPack
 - Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger
+- Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
 - marblism - https://www.marblism.com/
 
 ## Laravel (PHP)
