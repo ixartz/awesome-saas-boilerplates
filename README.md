@@ -2,21 +2,19 @@ List of SaaS boilerplates (starter kits) by stack
 
 *Did I miss something? Do you have a boilerplate to share? Drop me a message at zsmconsultnl@gmail.com or create a PR*
 
-> Are you planning to utilize some commidized features that are not essential to the core functionality of your SaaS instead of building them yourself - see this awesome list https://github.com/smirnov-am/awesome-devtools
-
 ## Ruby on Rails
 
 - Bullet Train https://bullettrain.co
 - Jumpstart Rails https://jumpstartrails.com/
-- Kiso https://kiso.io/
 - Sjabloon https://www.getsjabloon.com/
 
 
 ## Node.js (Javascript)
 
+- OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
 - LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
-- Widin [https://widin.io/](https://widin.io/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
+- Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - Gravity https://usegravity.app/
 - MERNKIT https://mernkit.com/
 - Nodewood https://nodewood.com/
@@ -48,6 +46,8 @@ List of SaaS boilerplates (starter kits) by stack
 - ALPack by Apptension - https://github.com/apptension/ALPack
 - Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger
 - StarterSaaS Node + Go - https://www.startersaas.com/
+- Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
+- marblism - https://www.marblism.com/
 
 ## Laravel (PHP)
 
@@ -84,6 +84,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Vanty Starter Kit https://www.advantch.com/
 - Saas Hammer https://saashammer.com/
 - YaSaas https://github.com/roperi/yasaas/
+- TheDevStarter https://thedevstarter.com/
 
 
 ## Flask (Python)
