@@ -68,6 +68,9 @@ List of SaaS boilerplates (starter kits) by stack
 
 - Parthenon - https://getparthenon.com
 
+## SvelteKit (Javascript)
+
+- SaaS Starter - https://saasstarter.work
 
 ## WordPress (PHP)
 
