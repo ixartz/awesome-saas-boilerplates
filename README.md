@@ -90,7 +90,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Saas Hammer https://saashammer.com/
 - YaSaas https://github.com/roperi/yasaas/
 - TheDevStarter https://thedevstarter.com/
-
+- djangorocket - https://github.com/ernestofgonzalez/djangorocket
 
 ## Flask (Python)
 
