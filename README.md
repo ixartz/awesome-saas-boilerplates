@@ -64,6 +64,9 @@ List of SaaS boilerplates (starter kits) by stack
 - saas-boilerplate. Open Source. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 
+## NestJs (Typescript)
+
+- Launchnow https://www.launchnow.pro/
 
 ## Symfony (PHP)
 
