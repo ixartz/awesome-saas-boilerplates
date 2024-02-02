@@ -113,11 +113,15 @@ List of SaaS boilerplates (starter kits) by stack
 
 - Openkoda (Java, Spring) Open-source. Pre-built application templates. https://openkoda.com
 
+## Go
+
+- Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
+- SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
+
 ## Rare
 - SupaNuxt SaaS. Nuxt3. Open Source. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
 - Serverless SaaS. React. https://serverless.page
-- SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - GeniePy (Python & Starlette) https://geniepy.com
 - Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
