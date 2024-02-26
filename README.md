@@ -12,7 +12,6 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
-- Next.js Boilerplate - Free and Open Source Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
 - OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
 - LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
@@ -120,14 +119,20 @@ List of SaaS boilerplates (starter kits) by stack
 - Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 
+## Next.js 
+
+- Next.js Boilerplate - Free and Open Source Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
+- Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
+- Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
+- Bedrock. Next.js. https://bedrock.mxstbr.com/
+
+
 ## Rare
 - SupaNuxt SaaS. Nuxt3. Open Source. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
 - Serverless SaaS. React. https://serverless.page
-- Bedrock. Next.js. https://bedrock.mxstbr.com/
 - GeniePy (Python & Starlette) https://geniepy.com
-- Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
-- Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
+
 
 ## Ionic Framework
 
