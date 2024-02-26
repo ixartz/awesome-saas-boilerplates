@@ -12,6 +12,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
+- Next.js Boilerplate - Free and Open Source Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
 - OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
 - LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
