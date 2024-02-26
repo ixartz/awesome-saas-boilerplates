@@ -76,6 +76,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## SvelteKit (Javascript)
 
 - SaaS Starter - https://saasstarter.work
+- Just Ship - https://justship.today
 
 ## WordPress (PHP)
 
