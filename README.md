@@ -51,6 +51,7 @@ List of SaaS boilerplates (starter kits) by stack
 - marblism - https://www.marblism.com/
 - SaasRock - https://saasrock.com
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
+- SaaSBold - https://saasbold.com/
 
 ## Laravel (PHP)
 
