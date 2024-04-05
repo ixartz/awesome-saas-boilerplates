@@ -133,6 +133,9 @@ List of SaaS boilerplates (starter kits) by stack
 - Serverless SaaS. React. https://serverless.page
 - GeniePy (Python & Starlette) https://geniepy.com
 
+## Remix
+
+- OneMix by SaaS King - https://saask.ing
 
 ## Ionic Framework
 
