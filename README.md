@@ -125,6 +125,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
 - Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
+- Next Starter AI - https://nextstarter.ai
 
 
 ## Rare
@@ -132,6 +133,7 @@ List of SaaS boilerplates (starter kits) by stack
 - PySaaS. Python + Pynecone https://pysaas.io/
 - Serverless SaaS. React. https://serverless.page
 - GeniePy (Python & Starlette) https://geniepy.com
+- Nuxt Starter AI - https://nuxtstarter.ai
 
 
 ## Ionic Framework
