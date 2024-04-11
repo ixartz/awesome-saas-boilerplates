@@ -49,8 +49,10 @@ List of SaaS boilerplates (starter kits) by stack
 - StarterSaaS Node + Go - https://www.startersaas.com/
 - Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
 - marblism - https://www.marblism.com/
+- DirectoryKit - https://www.directorykit.xyz/
 - SaasRock - https://saasrock.com
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
+
 
 ## Laravel (PHP)
 
