@@ -52,8 +52,8 @@ List of SaaS boilerplates (starter kits) by stack
 - DirectoryKit - https://www.directorykit.xyz/
 - SaasRock - https://saasrock.com
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
+- Indie Starter Kit https://indie-starter.dev
 - SaaSBold - https://saasbold.com/
-
 
 ## Laravel (PHP)
 
