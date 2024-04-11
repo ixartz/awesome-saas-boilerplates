@@ -34,7 +34,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Volca https://volca.io
 - Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit
 - Supastarter - https://supastarter.dev/
-- SAAS-Starter-Kit-Pro - https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro
+- SAAS-Starter-Kit - https://github.com/Saas-Starter-Kit/Saas-Kit-prisma
 - Saas UI Pro - https://saas-ui.dev
 - Modern MERN - https://modernmern.com
 - Usenextbase -  https://usenextbase.com
@@ -49,15 +49,18 @@ List of SaaS boilerplates (starter kits) by stack
 - StarterSaaS Node + Go - https://www.startersaas.com/
 - Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
 - marblism - https://www.marblism.com/
+- DirectoryKit - https://www.directorykit.xyz/
 - SaasRock - https://saasrock.com
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
 - Indie Starter Kit https://indie-starter.dev
+- SaaSBold - https://saasbold.com/
 
 ## Laravel (PHP)
 
 - Laravel Spark https://spark.laravel.com
 - Electrik - Saas Starter Kit https://github.com/electrikhq/electrik
 - SaaSWeb https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103
+- SaaSykit - https://saasykit.com/
 - Larakits https://larakits.com/
 - SaaS Starter Kit https://saasstarterkit.app
 - Wave https://devdojo.com/wave
@@ -87,6 +90,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Django (Python)
 
+- Ready SaaS https://www.readysaas.app/
 - SaaSitive https://saasitive.com
 - SaaS Pegasus https://www.saaspegasus.com/
 - Djaodjin. Open Source. https://djaodjin.com/
@@ -126,6 +130,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
 - Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
+- Next Starter AI - https://nextstarter.ai
 
 
 ## Rare
@@ -133,7 +138,11 @@ List of SaaS boilerplates (starter kits) by stack
 - PySaaS. Python + Pynecone https://pysaas.io/
 - Serverless SaaS. React. https://serverless.page
 - GeniePy (Python & Starlette) https://geniepy.com
+- Nuxt Starter AI - https://nuxtstarter.ai
 
+## Remix
+
+- OneMix by SaaS King - https://saask.ing
 
 ## Ionic Framework
 
