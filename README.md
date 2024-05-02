@@ -135,6 +135,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - Next Starter AI - https://nextstarter.ai
+- Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
 
 
 ## Rare
