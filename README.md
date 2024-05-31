@@ -122,7 +122,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Java
 
-- Openkoda (Java, Spring) Open-source. Pre-built application templates. https://openkoda.com
+- Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. https://github.com/openkoda/openkoda
 
 ## Go
 
