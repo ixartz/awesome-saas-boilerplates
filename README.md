@@ -54,6 +54,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
 - Indie Starter Kit https://indie-starter.dev
 - SaaSBold - https://saasbold.com/
+- WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
 
 ## Laravel (PHP)
 
@@ -128,7 +129,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 
-## Next.js 
+## Next.js
 
 - Next.js Boilerplate - Free and Open Source Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
 - Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
