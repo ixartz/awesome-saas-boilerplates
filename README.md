@@ -54,7 +54,9 @@ List of SaaS boilerplates (starter kits) by stack
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
 - Indie Starter Kit https://indie-starter.dev
 - SaaSBold - https://saasbold.com/
+- StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
+
 
 ## Laravel (PHP)
 
