@@ -131,6 +131,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Next.js
 
+- NextJSDirectory - Boilerplate to build directories in minutes https://nextjsdirectory.com/
 - Next.js Boilerplate - Free and Open Source Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
 - Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
 - Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
