@@ -55,6 +55,8 @@ List of SaaS boilerplates (starter kits) by stack
 - Indie Starter Kit https://indie-starter.dev
 - SaaSBold - https://saasbold.com/
 - StartKit.AI - https://startkit.ai
+- WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
+
 
 ## Laravel (PHP)
 
@@ -82,6 +84,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 - SaaS Starter - https://saasstarter.work
 - Just Ship - https://justship.today
+- SvelteShip - https://svelteship.com
 
 ## WordPress (PHP)
 
@@ -122,20 +125,22 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Java
 
-- Openkoda (Java, Spring) Open-source. Pre-built application templates. https://openkoda.com
+- Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. https://github.com/openkoda/openkoda
 
 ## Go
 
 - Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
 
-## Next.js 
+## Next.js
 
+- NextJSDirectory - Boilerplate to build directories in minutes https://nextjsdirectory.com/
 - Next.js Boilerplate - Free and Open Source Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
 - Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
 - Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - Next Starter AI - https://nextstarter.ai
+- Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
 
 
 ## Rare
