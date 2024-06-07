@@ -18,19 +18,20 @@ List of SaaS boilerplates (starter kits) by stack
 - Gravity https://usegravity.app/
 - MERNKIT https://mernkit.com/
 - Nodewood https://nodewood.com/
-- Boostack.io. open-source https://boostack.io/
+- Boostack.io. **open-source** https://boostack.io/
 - Rocket App https://rocketapp.me/
 - Turbojet https://www.turbojet.co/
-- SaaS Starter. Open Source. https://github.com/cedrickchee/saas-starter
-- SaaStr. Open Source. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
-- ULTIMATE BACKEND. Open Source. https://github.com/juicycleff/ultimate-backend
-- SaaSgear. Open Source. https://github.com/JSLancerTeam/saasgear
+- SaaS Starter. **Open Source**. https://github.com/cedrickchee/saas-starter
+- SaaStr. **Open Source****. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
+- ULTIMATE BACKEND. **Open Source**. https://github.com/juicycleff/ultimate-backend
+- SaaSgear. **Open Source**. https://github.com/JSLancerTeam/saasgear
 - Nextless JS https://nextlessjs.com
 - Divjoy https://divjoy.com
 - Remixtape https://remixtape.dev
+- Nextacular. **Open Source**. https://nextacular.co
 - AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template
 - Volca https://volca.io
-- Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit
+- Enterprise-ready SaaS Starter Kit. **Open Source**. https://github.com/boxyhq/saas-starter-kit
 - Supastarter - https://supastarter.dev/
 - SAAS-Starter-Kit - https://github.com/Saas-Starter-Kit/Saas-Kit-prisma
 - Saas UI Pro - https://saas-ui.dev
@@ -63,7 +64,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Wave https://devdojo.com/wave
 - Nana https://saasstarterkit.app/
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
-- saas-boilerplate. Open Source. https://github.com/miracuthbert/saas-boilerplate
+- saas-boilerplate. **Open Source*. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 
 ## NestJs (Typescript)
@@ -72,7 +73,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Symfony (PHP)
 
-- Parthenon - https://getparthenon.com
+- Parthenon **Open Source** - https://getparthenon.com
 
 ## SvelteKit (Javascript)
 
@@ -91,7 +92,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Ready SaaS https://www.readysaas.app/
 - SaaSitive https://saasitive.com
 - SaaS Pegasus https://www.saaspegasus.com/
-- Djaodjin. Open Source. https://djaodjin.com/
+- Djaodjin. ****Open Source***. https://djaodjin.com/
 - Carrot Seed https://www.cnc.io/en/seed
 - The SaaS boilerplate by Apptension (+React) https://www.apptension.com/saas-boilerplate
 - Vanty Starter Kit https://www.advantch.com/
@@ -102,11 +103,11 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Flask (Python)
 
-- SaaS Forge. Open Source. https://www.saasforge.dev/
+- SaaS Forge. ***Open Source**. https://www.saasforge.dev/
 - Ignite (SaaS Boilerplate). Commercial (source available). https://github.com/sumukh/ignite
-- Flask App Builder. Open Source. https://github.com/dpgaspar/Flask-AppBuilder
+- Flask App Builder. **Open Source**. https://github.com/dpgaspar/Flask-AppBuilder
 - Build a SAAS App with Flask. Course / Boilerplate. https://buildasaasappwithflask.com/
-- Enferno Frameowrk: Open Source . https://enferno.io/
+- Enferno Frameowrk: **Open Source** . https://enferno.io/
 
 ## FastAPI (Python)
 
@@ -124,12 +125,12 @@ List of SaaS boilerplates (starter kits) by stack
 ## Go
 
 - Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
-- SaaS Startup Kit. Golang. Open Source. https://saasstartupkit.com/
+- SaaS Startup Kit. Golang. **Open Source**. https://saasstartupkit.com/
 
 ## Next.js
 
 - NextJSDirectory - Boilerplate to build directories in minutes https://nextjsdirectory.com/
-- Next.js Boilerplate - Free and Open Source Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
+- Next.js Boilerplate - Free and **Open Source** Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
 - Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
 - Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
@@ -144,7 +145,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 
 ## Rare
-- SupaNuxt SaaS. Nuxt3. Open Source. https://github.com/JavascriptMick/supanuxt-saas
+- SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
 - Serverless SaaS. React. https://serverless.page
 - GeniePy (Python & Starlette) https://geniepy.com
