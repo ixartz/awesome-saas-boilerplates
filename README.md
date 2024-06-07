@@ -13,7 +13,6 @@ List of SaaS boilerplates (starter kits) by stack
 ## Node.js (Javascript)
 
 - OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
-- LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
 - Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - Gravity https://usegravity.app/
@@ -29,7 +28,6 @@ List of SaaS boilerplates (starter kits) by stack
 - Nextless JS https://nextlessjs.com
 - Divjoy https://divjoy.com
 - Remixtape https://remixtape.dev
-- Nextacular. Open Source. https://nextacular.co
 - AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template
 - Volca https://volca.io
 - Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit
@@ -37,20 +35,16 @@ List of SaaS boilerplates (starter kits) by stack
 - SAAS-Starter-Kit - https://github.com/Saas-Starter-Kit/Saas-Kit-prisma
 - Saas UI Pro - https://saas-ui.dev
 - Modern MERN - https://modernmern.com
-- Usenextbase -  https://usenextbase.com
 - Makerkit - https://makerkit.dev
 - salable - https://github.com/Salable/nextjs-with-salable
-- NextJS 14 SaaS Starter with Lucia and Stripe  https://github.com/juliankoehn/nextjs-saas-starter
 - ShipFast - https://shipfa.st/
 - SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
 - Graphile Starter - https://github.com/graphile/starter
 - ALPack by Apptension - https://github.com/apptension/ALPack
 - Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger
 - StarterSaaS Node + Go - https://www.startersaas.com/
-- Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
 - marblism - https://www.marblism.com/
 - DirectoryKit - https://www.directorykit.xyz/
-- SaasRock - https://saasrock.com
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
 - Indie Starter Kit https://indie-starter.dev
 - SaaSBold - https://saasbold.com/
@@ -141,6 +135,12 @@ List of SaaS boilerplates (starter kits) by stack
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - Next Starter AI - https://nextstarter.ai
 - Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
+- LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
+- Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
+- NextJS 14 SaaS Starter with Lucia and Stripe  https://github.com/juliankoehn/nextjs-saas-starter
+- Nextacular. Open Source. https://nextacular.co
+- Usenextbase -  https://usenextbase.com
+- SaasRock - https://saasrock.com
 
 
 ## Rare
