@@ -12,6 +12,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
+- React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
 - OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
 - Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
