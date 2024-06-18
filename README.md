@@ -50,6 +50,7 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaSBold - https://saasbold.com/
 - StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
+- FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
 
 
 ## Laravel (PHP)
@@ -80,6 +81,8 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Starter - https://saasstarter.work
 - Just Ship - https://justship.today
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
+- FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
+
 
 ## WordPress (PHP)
 
