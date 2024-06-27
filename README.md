@@ -63,6 +63,7 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaSykit - https://saasykit.com/
 - Larakits https://larakits.com/
 - SaaS Starter Kit https://saasstarterkit.app
+- Artiplate - https://artiplate.co/
 - Wave https://devdojo.com/wave
 - Nana https://saasstarterkit.app/
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
