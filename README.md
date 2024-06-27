@@ -54,6 +54,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Laravel (PHP)
 
+- Streamline https://streamlinelaravel.com
 - Laravel Spark https://spark.laravel.com
 - Larafast https://larafast.com
 - Electrik - Saas Starter Kit https://github.com/electrikhq/electrik
