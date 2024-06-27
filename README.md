@@ -1,6 +1,16 @@
 List of SaaS boilerplates (starter kits) by stack
 
-*Did I miss something? Do you have a boilerplate to share? Drop me a message at zsmconsultnl@gmail.com or create a PR*
+**Looking for collaboration!**
+
+This repo is gaining a lot of attention and I want to improve it:
+- add a rating system
+- prune dead links
+- remove duplicates
+- improve catalogization (tech, features, etc)
+
+Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
+
+*Did I miss something? Do you have a boilerplate to share? -> create a PR*
 
 ## Ruby on Rails
 
