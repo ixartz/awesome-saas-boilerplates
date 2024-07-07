@@ -113,6 +113,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - YaSaas https://github.com/roperi/yasaas/
 - TheDevStarter https://thedevstarter.com/
 - djangorocket - https://github.com/ernestofgonzalez/djangorocket
+- Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
 
 ## Flask (Python)
 
