@@ -80,6 +80,7 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaS Starter - https://saasstarter.work
 - Just Ship - https://justship.today
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
+- LaunchFa.st - SvelteKit Starter Kit [https://launchfa.st/](https://www.launchfa.st/?utm_source=awesome-saas-boilerplates)
 
 ## WordPress (PHP)
 
@@ -136,7 +137,7 @@ List of SaaS boilerplates (starter kits) by stack
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - Next Starter AI - https://nextstarter.ai
 - Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
-- LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
+- LaunchFa.st - Next.js Starter Kit [https://launchfa.st/](https://www.launchfa.st/?utm_source=awesome-saas-boilerplates)
 - Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
 - NextJS 14 SaaS Starter with Lucia and Stripe  https://github.com/juliankoehn/nextjs-saas-starter
 - Nextacular. Open Source. https://nextacular.co
@@ -158,3 +159,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Ionic Framework
 
 - Ionstarter - https://ionstarter.dev/
+
+## Astro
+
+- LaunchFa.st - Astro Starter Kit [https://launchfa.st/](https://www.launchfa.st/?utm_source=awesome-saas-boilerplates)
