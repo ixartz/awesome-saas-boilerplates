@@ -156,6 +156,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Usenextbase -  https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
+- NextSaaS - All-In-One Boilerplate with build-in CMS [https://nextsaas.live](https://nextsaas.live)
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
