@@ -159,7 +159,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
-- React Native Boilerplate - https://launchyourapp.dev/
+- LaunchYourApp | React Native Boilerplate - https://launchyourapp.dev/
 
 ## Rare
 - SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
