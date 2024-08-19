@@ -1,17 +1,5 @@
 List of SaaS boilerplates (starter kits) by stack
 
-**Looking for collaboration!**
-
-This repo is gaining a lot of attention and I want to improve it:
-- add a rating system
-- prune dead links
-- remove duplicates
-- improve catalogization (tech, features, etc)
-
-Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
-
-*Did I miss something? Do you have a boilerplate to share? -> create a PR*
-
 ## Ruby on Rails
 
 - Bullet Train https://bullettrain.co
@@ -23,44 +11,8 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 ## Node.js (Javascript)
 
 - React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
-- OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
-- BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
-- Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
-- Gravity https://usegravity.app/
-- MERNKIT https://mernkit.com/
-- Nodewood https://nodewood.com/
-- Boostack.io. **open-source** https://boostack.io/
-- Rocket App https://rocketapp.me/
-- Turbojet https://www.turbojet.co/
-- SaaS Starter. **Open Source**. https://github.com/cedrickchee/saas-starter
-- SaaStr. **Open Source****. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
-- ULTIMATE BACKEND. **Open Source**. https://github.com/juicycleff/ultimate-backend
-- SaaSgear. **Open Source**. https://github.com/JSLancerTeam/saasgear
 - Nextless JS https://nextlessjs.com
-- Divjoy https://divjoy.com
-- Remixtape https://remixtape.dev
-- Nextacular. **Open Source**. https://nextacular.co
-- AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template
-- Volca https://volca.io
-- Enterprise-ready SaaS Starter Kit. **Open Source**. https://github.com/boxyhq/saas-starter-kit
-- Supastarter - https://supastarter.dev/
-- SAAS-Starter-Kit - https://github.com/Saas-Starter-Kit/Saas-Kit-prisma
-- Saas UI Pro - https://saas-ui.dev
 - Modern MERN - https://modernmern.com
-- Makerkit - https://makerkit.dev
-- salable - https://github.com/Salable/nextjs-with-salable
-- SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
-- Graphile Starter - https://github.com/graphile/starter
-- ALPack by Apptension - https://github.com/apptension/ALPack
-- Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger
-- StarterSaaS Node + Go - https://www.startersaas.com/
-- marblism - https://www.marblism.com/
-- DirectoryKit - https://www.directorykit.xyz/
-- Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
-- Indie Starter Kit https://indie-starter.dev
-- SaaSBold - https://saasbold.com/
-- StartKit.AI - https://startkit.ai
-- WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
 
 
 ## Laravel (PHP)
@@ -142,20 +94,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 ## Next.js
 
-- NextJSDirectory - Boilerplate to build directories in minutes https://nextjsdirectory.com/
-- Next.js Boilerplate - Free and **Open Source** Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
-- Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
-- Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
-- Bedrock. Next.js. https://bedrock.mxstbr.com/
-- Next Starter AI - https://nextstarter.ai
-- Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
-- LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
-- Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
-- NextJS 14 SaaS Starter with Lucia and Stripe  https://github.com/juliankoehn/nextjs-saas-starter
-- Nextacular. Open Source. https://nextacular.co
-- Usenextbase -  https://usenextbase.com
-- SaasRock - https://saasrock.com
-- All-In-One Next & React Native Starter https://allinonedev.com
+- Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
