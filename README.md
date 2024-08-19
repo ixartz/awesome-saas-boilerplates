@@ -35,7 +35,6 @@ List of SaaS boilerplates (starter kits) by stack
 ## NestJs (Typescript)
 
 - Launchnow https://www.launchnow.pro/
-- ShipFast - https://shipfa.st/
 
 ## Symfony (PHP)
 
@@ -102,7 +101,6 @@ List of SaaS boilerplates (starter kits) by stack
 ## Rare
 - SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
-- Serverless SaaS. React. https://serverless.page
 - GeniePy (Python & Starlette) https://geniepy.com
 - Nuxt Starter AI - https://nuxtstarter.ai
 
