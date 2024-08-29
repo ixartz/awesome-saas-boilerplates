@@ -93,6 +93,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
+- supastarter for SvelteKit - https://supastarter.dev/sveltekit
 
 ## WordPress (PHP)
 
@@ -156,6 +157,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Usenextbase -  https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
+- supastarter for Next.js - https://supastarter.dev/nextjs
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
