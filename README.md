@@ -62,6 +62,8 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
 - BoilerPro - https://boilerpro.co
+- FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
+
 
 
 ## Laravel (PHP)
@@ -94,6 +96,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
+- CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
+- FastestEngineer - https://fastest.engineer
+
 
 ## WordPress (PHP)
 
