@@ -99,6 +99,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
+- supastarter for SvelteKit - https://supastarter.dev/sveltekit
 - SvelteLaunch - https://sveltelaunch.io
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
@@ -167,11 +168,13 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Usenextbase -  https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
+- supastarter for Next.js - https://supastarter.dev/nextjs
 - ShipFast - https://shipfa.st/
 - AI SaaS Boilerplate - https://appliful.com/
 - NextSaaS - All-In-One Boilerplate with build-in CMS [https://nextsaas.live](https://nextsaas.live)
 - Open Source Next.js SaaS Kit [saaskit.one](https://saaskit.one/)
 - BoilerPro - https://boilerpro.co
+
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
