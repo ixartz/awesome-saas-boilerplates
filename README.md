@@ -1,6 +1,16 @@
 List of SaaS boilerplates (starter kits) by stack
 
-*Did I miss something? Do you have a boilerplate to share? Drop me a message at zsmconsultnl@gmail.com or create a PR*
+**Looking for collaboration!**
+
+This repo is gaining a lot of attention and I want to improve it:
+- add a rating system
+- prune dead links
+- remove duplicates
+- improve catalogization (tech, features, etc)
+
+Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
+
+*Did I miss something? Do you have a boilerplate to share? -> create a PR*
 
 ## Ruby on Rails
 
@@ -12,6 +22,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
+- React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
 - OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
 - BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
 - Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
@@ -50,16 +61,20 @@ List of SaaS boilerplates (starter kits) by stack
 - SaaSBold - https://saasbold.com/
 - StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
+- FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
 
 
 ## Laravel (PHP)
 
+- Streamline https://streamlinelaravel.com
 - Laravel Spark https://spark.laravel.com
+- Larafast https://larafast.com
 - Electrik - Saas Starter Kit https://github.com/electrikhq/electrik
 - SaaSWeb https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103
 - SaaSykit - https://saasykit.com/
 - Larakits https://larakits.com/
 - SaaS Starter Kit https://saasstarterkit.app
+- Artiplate - https://artiplate.co/
 - Wave https://devdojo.com/wave
 - Nana https://saasstarterkit.app/
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
@@ -77,10 +92,11 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## SvelteKit (Javascript)
 
-- SaaS Starter - https://saasstarter.work
+- SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
+
 
 ## WordPress (PHP)
 
@@ -143,7 +159,10 @@ List of SaaS boilerplates (starter kits) by stack
 - Nextacular. Open Source. https://nextacular.co
 - Usenextbase -  https://usenextbase.com
 - SaasRock - https://saasrock.com
+- All-In-One Next & React Native Starter https://allinonedev.com
 
+## React Native
+- All-In-One Next & React Native Starter https://allinonedev.com
 
 ## Rare
 - SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
