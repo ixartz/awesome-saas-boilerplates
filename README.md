@@ -90,7 +90,6 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 ## NestJs (Typescript)
 
 - Launchnow https://www.launchnow.pro/
-- ShipFast - https://shipfa.st/
 
 ## Symfony (PHP)
 
@@ -168,10 +167,11 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Usenextbase -  https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
+- ShipFast - https://shipfa.st/
+- AI SaaS Boilerplate - https://appliful.com/
 - NextSaaS - All-In-One Boilerplate with build-in CMS [https://nextsaas.live](https://nextsaas.live)
 - Open Source Next.js SaaS Kit [saaskit.one](https://saaskit.one/)
 - BoilerPro - https://boilerpro.co
-
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
