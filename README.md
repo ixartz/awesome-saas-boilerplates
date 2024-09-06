@@ -12,6 +12,10 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 *Did I miss something? Do you have a boilerplate to share? -> create a PR*
 
+## iOS (Swift / SwiftUI)
+- Swift Maker - https://swiftmaker.dev/
+
+
 ## Ruby on Rails
 
 - Bullet Train https://bullettrain.co
@@ -62,6 +66,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
 - shadcn/pro SaaS starter kit - https://shadcnpro.com/
+- BoilerPro - https://boilerpro.co
+- FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
+
 
 ## Laravel (PHP)
 
@@ -93,6 +100,10 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
+- SvelteLaunch - https://sveltelaunch.io
+- CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
+- FastestEngineer - https://fastest.engineer
+
 
 ## WordPress (PHP)
 
@@ -113,6 +124,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - YaSaas https://github.com/roperi/yasaas/
 - TheDevStarter https://thedevstarter.com/
 - djangorocket - https://github.com/ernestofgonzalez/djangorocket
+- Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
 
 ## Flask (Python)
 
@@ -156,6 +168,10 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Usenextbase -  https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
+- NextSaaS - All-In-One Boilerplate with build-in CMS [https://nextsaas.live](https://nextsaas.live)
+- Open Source Next.js SaaS Kit [saaskit.one](https://saaskit.one/)
+- BoilerPro - https://boilerpro.co
+
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
@@ -174,3 +190,6 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 ## Ionic Framework
 
 - Ionstarter - https://ionstarter.dev/
+
+## AWS
+- BoilerPro - https://boilerpro.co
