@@ -61,6 +61,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - SaaSBold - https://saasbold.com/
 - StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
+- BoilerPro - https://boilerpro.co
+- FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
+
 
 
 ## Laravel (PHP)
@@ -94,6 +97,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
 - SvelteLaunch - https://sveltelaunch.io
+- CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
+- FastestEngineer - https://fastest.engineer
+
 
 ## WordPress (PHP)
 
@@ -157,6 +163,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Usenextbase -  https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
+- BoilerPro - https://boilerpro.co
 
 ## React Native
 - All-In-One Next & React Native Starter https://allinonedev.com
@@ -175,3 +182,6 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 ## Ionic Framework
 
 - Ionstarter - https://ionstarter.dev/
+
+## AWS
+- BoilerPro - https://boilerpro.co
