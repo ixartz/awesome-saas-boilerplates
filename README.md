@@ -65,9 +65,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - SaaSBold - https://saasbold.com/
 - StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
+- shadcn/pro SaaS starter kit - https://shadcnpro.com/
 - BoilerPro - https://boilerpro.co
 - FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
-
 
 
 ## Laravel (PHP)
