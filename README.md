@@ -186,6 +186,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 ## Remix
 
+- LaunchFast.pro https://launchfast.pro/
 - OneMix by SaaS King - https://saask.ing
 
 ## Ionic Framework
