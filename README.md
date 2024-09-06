@@ -95,7 +95,8 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
-- FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
+- FastestEngineer - https://fastest.engineer
+
 
 ## WordPress (PHP)
 
