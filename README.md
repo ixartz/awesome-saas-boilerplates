@@ -96,6 +96,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
+- SvelteLaunch - https://sveltelaunch.io
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
 
