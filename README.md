@@ -32,18 +32,9 @@ List of SaaS boilerplates (starter kits) by stack
 - saas-boilerplate. **Open Source*. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 
-## NestJs (Typescript)
-
-- Launchnow https://www.launchnow.pro/
-
 ## Symfony (PHP)
 
 - Parthenon **Open Source** - https://getparthenon.com
-
-## SvelteKit (Javascript)
-
-- SaaS Starter / CMSaasStarter - https://saasstarter.work
-- Just Ship - https://justship.today
 
 ## WordPress (PHP)
 
@@ -96,17 +87,12 @@ List of SaaS boilerplates (starter kits) by stack
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 
 ## React Native
-- All-In-One Next & React Native Starter https://allinonedev.com
+
+- React Native Boilerplate for iOS, Android and web - https://reactnativeboilerplate.com
 
 ## Rare
-- SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
 - GeniePy (Python & Starlette) https://geniepy.com
-- Nuxt Starter AI - https://nuxtstarter.ai
-
-## Remix
-
-- OneMix by SaaS King - https://saask.ing
 
 ## Ionic Framework
 
