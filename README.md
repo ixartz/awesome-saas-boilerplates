@@ -13,6 +13,7 @@ List of SaaS boilerplates (starter kits) by stack
 - React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
 - Nextless JS https://nextlessjs.com
 - Modern MERN - https://modernmern.com
+- LaunchKit - AI-native SaaS starter (Next.js 16, Auth.js v5, Stripe, OpenAI, Prisma) https://github.com/huangyongshan46-a11y/launchkit-saas
 
 
 ## Laravel (PHP)
