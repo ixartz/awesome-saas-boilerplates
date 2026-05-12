@@ -13,6 +13,7 @@ List of SaaS boilerplates (starter kits) by stack
 - React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
 - Nextless JS https://nextlessjs.com
 - Modern MERN - https://modernmern.com
+- Fastrelease - Node.js SaaS boilerplate with Stripe, Auth and PostgreSQL. https://fastrelease.net/
 
 
 ## Laravel (PHP)
