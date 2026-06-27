@@ -10,6 +10,8 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js (Javascript)
 
+- SaaS Starter by Cloudrix - **Open Source** NestJS + Angular SaaS boilerplate https://github.com/sayahweb2-png/saas-starter-lite
+
 - React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
 - Nextless JS https://nextlessjs.com
 - Modern MERN - https://modernmern.com
