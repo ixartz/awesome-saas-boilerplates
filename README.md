@@ -71,6 +71,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## .NET (ASP.NET Core / .NET 6+)
 
 - ASP.NET Zero. .NET. https://aspnetzero.com/
+- DotForge. .NET 10 + Angular 22, multitenant. https://dotforge.dev/
 - fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
 
 ## Java
