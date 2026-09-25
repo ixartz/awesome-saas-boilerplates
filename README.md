@@ -75,6 +75,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Java
 
+- [Backbone Community](https://github.com/get-backbone/backbone-community) - Want to write product domain services in ~15 minutes instead of building SaaS plumbing for months? Start from templates with auth, audit, metrics, throttling, fault tolerance and observability built in - with a golden path from local development to production, scale and security. Free Community Edition; upgrade to [Backbone](https://backbonehq.io/) when you're ready.
 - Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. https://github.com/openkoda/openkoda
 
 ## Go
