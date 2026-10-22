@@ -66,6 +66,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## FastAPI (Python)
 
+- FastAPI Supabase Starter. Commercial. https://starter.budeglobal.in/
 - GeniePy SaaS starter codebase. https://geniepy.com/
 
 ## .NET (ASP.NET Core / .NET 6+)
