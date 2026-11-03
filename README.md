@@ -85,6 +85,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Next.js
 
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
+- supastack - https://supastack.dev
 
 ## React Native
 
